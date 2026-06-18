@@ -1,4 +1,4 @@
-# AI SEO & Search Visibility Research Hub (2026)
+# AI SEO & Search Visibility Research Hub (2026) 
 
 Hey there! I put this repository together to serve as my personal library for real, unfiltered search data. 
 
