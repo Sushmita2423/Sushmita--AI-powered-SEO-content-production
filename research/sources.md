@@ -55,3 +55,8 @@ This directory serves as an operational library tracking top-tier operators who 
 *   **Date:** 12th Jan 2026
 *   **Annotation:** Industry veteran focusing on unfiltered, highly technical growth methods. Covers deep database scripting, grey-hat automated scraping setups, and high-volume link building to scale programmatic affiliate portals.
 
+### 11. Sam Oh
+*   **Links:** https://www.linkedin.com/in/sam-o-84593014/ | Featured Video: https://youtu.be/uza9GX0E2mw?si=sw0sh3StK_ybmZp5
+*   **Date:** 17th June 2026
+*   **Annotation:** An expert SEO educator and the face of Ahrefs, Sam Oh delivers actionable insights on future-proofing search traffic through his comprehensive Answer Engine Optimization (AEO) course.
+
