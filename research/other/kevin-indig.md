@@ -1,4 +1,11 @@
-Growth Intelligence Brief 
+# 📄 Research Asset: Kevin Indig / Growth Intelligence Brief #20
+
+* **Original Source Link:**  https://www.growth-memo.com/p/growth-intelligence-brief-20
+* **Extraction Layer:** Supadata API Automation
+* **Date Synced:** June 2026
+
+## 📝 Raw Extracted Content
+> Growth Intelligence Brief 
 
 ### Is Reddit done? Is Yellow Pages back? Why did Yelp hit a new record this week? 
 
@@ -6,13 +13,6 @@ Growth Intelligence Brief
 
 [Kevin Indig](https://substack.com/@kevinindig)
 
-Jun 12, 2026
-
-∙ Paid
-
-25
-
-Share
 
 [![](https://www.growth-memo.com/p/fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4ea7a9d-f19c-422e-8561-08872497f7a2_1536x1024.png)](https://substackcdn.com/image/fetch/$s%5F!un9R!,f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4ea7a9d-f19c-422e-8561-08872497f7a2%5F1536x1024.png)
 
@@ -75,4 +75,3 @@ Algorithm-gifted visibility is a rental.
 ![User's avatar](https://www.growth-memo.com/p/fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d55af9f-b472-4efe-b0ab-8f1f1895ac8b_1600x1600.png)
 
 ## Continue reading this post for free, courtesy of Kevin Indig.
-
