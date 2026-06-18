@@ -1,4 +1,11 @@
-Entrepreneurship Uncensored Podcast
+# 📄 Research Asset: Craig Campbell / Entrepreneurship Uncensored Podcast
+
+* **Original Source Link:**  https://www.craigcampbellseo.com/entrepreneurship-uncensored-podcast/
+* **Extraction Layer:** Supadata API Automation
+* **Date Synced:** June 2026
+
+## 📝 Raw Extracted Content
+> Entrepreneurship Uncensored Podcast
 
 ![](https://www.craigcampbellseo.com/wp-content/uploads/2026/01/The-Entrepreneurship-Podcast.png) 
 
@@ -56,3 +63,5 @@ James is also a strong co-founder of the Entrepreneurship Uncensored Podcast bec
 * [![social media icon](https://www.craigcampbellseo.com/wp-content/uploads/2018/09/facebook-btn.svg)](https://www.facebook.com/craigcampbellseo03)
 * [![social media icon](https://www.craigcampbellseo.com/wp-content/uploads/2018/09/twitter-btn.svg)](https://twitter.com/craigcampbell03)
 * [![social media icon](https://www.craigcampbellseo.com/wp-content/uploads/2018/09/in-btn.svg)](https://www.linkedin.com/in/craigcampbell0302/)
+
+
