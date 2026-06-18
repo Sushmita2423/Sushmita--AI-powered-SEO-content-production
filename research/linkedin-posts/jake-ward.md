@@ -1,4 +1,11 @@
-[How AEO, GEO and AI search actually works in 2026 (spoiler: it's 90% just SEO)](https://media.licdn.com/dms/image/v2/D4E12AQHcHej8o2-yqg/article-cover_image-shrink_720_1280/B4EZ4hCJLpJEAQ-/0/1778670672906?e=2147483647&v=beta&t=WMTnUAGcb3mJa0O7ctoGVPjuzZdzZ4vK3V9QQo3tVic) 
+# 📄 Research Asset: Jake Ward AI Search Breakdown 
+
+*   **Original Source Link:** https://www.linkedin.com/pulse/how-aeo-geo-ai-search-actually-works-2026-spoiler-its-jake-ward-hvwte/?trackingId=Kcv%2FFVN4RWut3qzBM3mGCw%3D%3D
+*   **Extraction Layer:** Supadata API Automation
+*   **Date Synced:** June 2026
+
+## 📝 Raw Extracted Content
+> [How AEO, GEO and AI search actually works in 2026 (spoiler: it's 90% just SEO)](https://media.licdn.com/dms/image/v2/D4E12AQHcHej8o2-yqg/article-cover_image-shrink_720_1280/B4EZ4hCJLpJEAQ-/0/1778670672906?e=2147483647&v=beta&t=WMTnUAGcb3mJa0O7ctoGVPjuzZdzZ4vK3V9QQo3tVic) 
 
 I've been doing SEO for over 10 years. 
 
@@ -242,3 +249,4 @@ If you take one thing from this article, make it this.
 * Genuine content depth on your topics
 
 That's the whole game. 
+
