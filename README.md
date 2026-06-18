@@ -1,6 +1,8 @@
 # AI SEO & Search Visibility Research Hub (2026) 
 
-Hey there! I put this repository together to serve as my personal library for real, unfiltered search data. 
+Hello Everyone! 👋 😊 
+
+I put this repository together to serve as my personal library for real, unfiltered search data. 
 
 With standard search engines shifting heavily into AI Overviews, ChatGPT answers, SEO and Generative Engine Optimization (GEO) this year, the old playbook for ranking websites is mostly broken. I needed a single, clean place to store raw notes, podcast audio transcripts, and breakdowns away from the noise of social media algorithms.
 
