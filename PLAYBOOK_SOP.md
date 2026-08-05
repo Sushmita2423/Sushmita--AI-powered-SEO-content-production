@@ -1,4 +1,4 @@
-# 📚 SOP: End-to-End AI SEO Content Production & LLM Visibility Workflow
+# 📚 Playbook/SOP: End-to-End AI SEO Content Production & LLM Visibility Workflow
 
 ## 1. Overview & Operational Goals
 This Standard Operating Procedure (SOP) outlines the step-by-step workflow for executing scalable, high-quality AI content production while ensuring search engine index survival and maximum visibility across Large Language Models (LLMs) and Answer Engine Optimization (AEO) networks.
